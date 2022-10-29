@@ -1,2 +1,1 @@
-# Inetrview-Prepration-LLD-DSA-
-Consist of Famous concepts of DSA and LLD Solved
+LLD Design problems using Design Patterns in Python
